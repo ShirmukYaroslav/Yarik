@@ -1,0 +1,45 @@
+body{
+    font-family: 'Baskervville', serif;
+    color: white;
+    background-color: rgb(0, 0, 0);
+  }
+  
+h1{
+    color:red;
+    text-decoration: underline red;
+}
+
+h1, h2{
+    text-align: center;
+  }
+
+.first_text{
+    text-align:right;
+  }
+
+.first_header{
+    text-align:center;
+  }
+
+.two_text{
+  text-align:center;
+  }
+
+.three_text{
+    text-align:right;
+    }
+.two_header{
+    text-align:center;
+    }
+.four_text{
+    text-align:right;
+}
+
+.five_text{
+    text-align:right;
+}
+
+.foto{
+    width:500px;
+    height:350px;
+}
